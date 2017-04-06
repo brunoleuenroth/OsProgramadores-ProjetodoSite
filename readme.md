@@ -18,3 +18,7 @@ GitHub: https://github.com/ffabiorj
 - Valdinei Ferreira  
 Email: valdinei_vof@hotmail.com  
 GitHub: https://github.com/valdinei11  
+
+- Bruno Leuenroth  
+Email: brucole@gmail.com  
+GitHub: https://github.com/brunoleuenroth
